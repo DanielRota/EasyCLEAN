@@ -1,4 +1,4 @@
-![Title](Images//Logo.png)
+![Title](EasyCLEAN//Images//Logo.png)
 
 # INTRODUZIONE
 
